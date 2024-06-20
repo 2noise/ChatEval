@@ -1,6 +1,6 @@
 <div align="center">
 
-[**English**](README.en.md) | **简体中文**
+**English** | [**简体中文**](README.zh.md)
 
 # Identify speakers with stable voice timbre
 

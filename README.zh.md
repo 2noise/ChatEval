@@ -1,6 +1,6 @@
 <div align="center">
 
-[**English**](README.en.md) | **简体中文**
+[**English**](README.md) | **简体中文**
 
 # ChatTTS音色稳定性评估与识别
 
